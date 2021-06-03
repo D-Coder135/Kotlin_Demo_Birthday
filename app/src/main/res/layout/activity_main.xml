@@ -27,6 +27,7 @@
         android:layout_marginBottom="16dp"
         android:fontFamily="sans-serif-light"
         android:text="From D_Coder135"
+        android:textColor="@android:color/black"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
