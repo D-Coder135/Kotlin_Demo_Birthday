@@ -20,7 +20,8 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="328dp"
+        app:layout_constraintEnd_toEndOf="parent"
         tools:layout_editor_absoluteY="685dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
